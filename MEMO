@@ -1,5 +1,6 @@
   git clone https://github.com/TerryGeng/termqt
   cd termqt/
-  pip install qtpy
+  ## pip install qtpy
+  pip install pyside6
   pip install pywinpty
   python start.py 
